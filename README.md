@@ -1,12 +1,12 @@
 # FSE Pilot Project
 
-Welcome to the scaffold for your pilot build, this readme will help you get setup in your development environment, though if you find you have questions that remained unanswered, please reach out to your Automattic contact.
+Welcome to the scaffold for your pilot build, this readme will help you get setup in your development environment, though if you find you have questions that remain unanswered, please reach out to your Automattic contact.
 
-## Seting up the Project
+## Setting up the Project
 
 ### Cloning
 
-This scaffold is setup as a `/wp-content` root, that means you should clone this through `git` locally to be the `/wp-content` folder of your local install.
+This scaffold is set up as a `/wp-content` root, that means you should clone this through `git` locally to be the `/wp-content` folder of your local install.
 
 ### Dependencies
 
