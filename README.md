@@ -28,7 +28,7 @@ To make building the post feeds easier, an XML file of post demo data including 
 
 ### Design
 
-[Designs are available in Figma.](https://www.figma.com/file/eb7htmHX8L9k6od2qICj2k/%F0%9F%9B%A0%EF%B8%8F-FSE-Pilot-Build-Theme?type=design&node-id=1278%3A251&mode=design&t=asAh1ekkPZsSxUPI-1)
+[Designs are available in Figma.](https://www.figma.com/file/eb7htmHX8L9k6od2qICj2k/%F0%9F%9B%A0%EF%B8%8F-FSE-Pilot-Build-Theme?type=design&node-id=3468-563&mode=design)
 
 ## Project Structure
 
